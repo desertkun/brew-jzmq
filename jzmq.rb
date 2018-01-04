@@ -4,7 +4,7 @@ class Jzmq < Formula
   homepage 'https://github.com/zeromq/jzmq'
   url 'git://github.com/zeromq/jzmq.git'
   version '2.1.0'
-  sha1 ''
+  sha256 ''
 
   depends_on 'zeromq'
   depends_on 'pkg-config'
